@@ -35,3 +35,9 @@
 ### Bike sharing analysis information.
 
 ##### This is a good example of the culmination of data, soft and hard skills gained over the last 2-3 years that I can host here.  I say, "That I can post here" because most of my analysis notebooks are way over the 25MB limit for GH uploads, some are into >150MB territory.  
+
+#### **** 
+
+### Hotel reviews NLP notebook information. 
+
+##### This was my first venture into analysing text data using NLP techniques on a daaset provided by a travel company.  After getting a taste of NLP, I decided it would be wise to go down the transformers route and see what I could come up with re:  building my own LLM. I have used image data quite a bit for image generation projects (img 2 img etc.) but NLP is where it's at in my book.   
