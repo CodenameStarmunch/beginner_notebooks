@@ -26,6 +26,6 @@
 
 #### ****
 
-### Premier league notebook information.
+### Premier league notebook information.
 
 ##### This was one of several 'dive in and figure things out' projects I completed.  I do / did these because I felt that there would be times in the future where there are no SMEs available, and completing projects using business data (etc.) meant that I wasn't particularly out of my comfort zone; in some instances I knew the outcome either before the project was started, or early on in the project after looking at a few of the variables, so I was working towards a predermined conclusion and mostly completing the project to pick up some technological skills.  With this project I was blind re: the data, but at this point I had some more hard skills to test out.  
