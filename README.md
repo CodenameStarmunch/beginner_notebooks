@@ -29,3 +29,9 @@
 ### Premier league notebook information.
 
 ##### This was one of several 'dive in and figure things out' projects I completed.  I do / did these because I felt that there would be times in the future where there are no SMEs available, and completing projects using business data (etc.) meant that I wasn't particularly out of my comfort zone; in some instances I knew the outcome either before the project was started, or early on in the project after looking at a few of the variables, so I was working towards a predermined conclusion and mostly completing the project to pick up some technological skills.  With this project I was blind re: the data, but at this point I had some more hard skills to test out.  
+
+#### ****
+
+### Bike sharing analysis information.
+
+##### This is a good example of the culmination of data, soft and hard skills gained over the last 2-3 years that I can host here.  I say, "That I can post here" because most of my analysis notebooks are way over the 25MB limit for GH uploads, some are into >150MB territory.  
